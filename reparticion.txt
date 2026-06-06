@@ -21,3 +21,6 @@ Enfoque Avanzado: Dejará atrás las gráficas estáticas aburridas para impleme
 Responsabilidades: Generación del Dashboard Ejecutivo/Gráficas, interpretación profunda de los datos, redacción de conclusiones y armado de la Presentación Ejecutiva.
 
 Puntos de la rúbrica que cubre: Análisis y reportes (20 pts), Interpretación (15 pts), Presentación ejecutiva (5 pts).
+
+
+sdsdsdsd
