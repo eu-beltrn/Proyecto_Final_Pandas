@@ -1,0 +1,38 @@
+Proyecto_Final_Mundial_2026/
+│
+├── data/                                 ← (Carpeta ignorada en GitHub si los CSV son muy pesados)
+│   ├── raw/
+│   │   └── encuesta_snacks_mundial_2026_guatemala_2500_respuestas.csv
+│   └── clean/
+│       ├── dataset_limpio.csv            ← Generado por Eu (Limpieza)
+│       ├── ABT_Mundial.csv               ← Generado por Nicole (Tabla Base Analítica)
+│       ├── ABT_Jugadores.csv             ← Generado por Nicole (Desanidado)
+│       └── ABT_Snacks.csv                ← Generado por Nicole (Desanidado)
+│
+├── notebooks/                            ← (Código interactivo y explicaciones Markdown)
+│   ├── 01_Exploracion_y_Limpieza_Eu.ipynb
+│   ├── 02_Feature_Engineering_Nicole.ipynb
+│   └── 03_Business_Strategy_Jonathan.ipynb
+│   # (Nota: También puedes unificar estos 3 en un solo "Notebook_Final.ipynb")
+│
+├── src/                                  ← (Scripts de Python ejecutables / OOP)
+│   ├── data_pipeline.py                  ← Eu
+│   ├── feature_engineering.py            ← Nicole
+│   └── strategy_dashboard.py             ← Jonathan
+│
+├── images/                               ← (Visualizaciones exportadas)
+│   └── dashboard/
+│       ├── q1_snack.png                  ← Respuesta P1
+│       ├── q2_jugador.png                ← Respuesta P2
+│       ├── q3_seleccion.png              ← Respuesta P3
+│       ├── q4_promocion.png              ← Respuesta P4
+│       └── q5_precio.png                 ← Respuesta P5
+│
+├── reports/                              ← (Documentación requerida en rúbrica)
+│   ├── Diccionario_Datos_ABT.md          ← Creado por Nicole
+│   ├── Informe_Tecnico.pdf               ← Consolidado de metodología y transformaciones
+│   └── Presentacion_Ejecutiva.pdf        ← Creado por Jonathan (Storytelling para Gerencia)
+│
+├── .gitignore                            ← (Excluye archivos innecesarios como __pycache__ o /data/raw)
+├── requirements.txt                      ← (Librerías: pandas, numpy, matplotlib, seaborn)
+└── README.md                             ← (Portada del proyecto explicada en el paso de Eu)

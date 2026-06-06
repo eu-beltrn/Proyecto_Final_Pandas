@@ -1,0 +1,9 @@
+Aqui van los gráficos generados
+
+├── images/                               ← (Visualizaciones exportadas)
+│   └── dashboard/
+│       ├── q1_snack.png                  ← Respuesta P1
+│       ├── q2_jugador.png                ← Respuesta P2
+│       ├── q3_seleccion.png              ← Respuesta P3
+│       ├── q4_promocion.png              ← Respuesta P4
+│       └── q5_precio.png                 ← Respuesta P5
