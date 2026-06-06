@@ -1,0 +1,23 @@
+1. Eu (Data Engineer Lead & Data Quality)
+
+Enfoque Avanzado: Ya no solo limpiará datos, sino que creará un Pipeline de ETL Automatizado usando Method Chaining en Pandas (código más limpio y rápido).
+
+Responsabilidades: Carga de datos, análisis exploratorio estadístico (detección de outliers/anomalías), limpieza robusta (manejo avanzado de nulos e inconsistencias) y gestión de la estructura del repositorio GitHub.
+
+Puntos de la rúbrica que cubre: Carga y exploración (10 pts), Limpieza (20 pts), Repositorio GitHub (5 pts).
+
+2. Nicole (Analytics Engineer & Documentación Técnica)
+
+Enfoque Avanzado: Pasará del modelo Star Schema tradicional a la creación de una Analytical Base Table (ABT) aplicando Feature Engineering (ej. crear variables nuevas como "Disposición de pago Premium" o "Segmento de Lealtad").
+
+Responsabilidades: Transformaciones complejas, desanidamiento de listas, cruces avanzados, construcción de indicadores compuestos y redacción del Informe Técnico.
+
+Puntos de la rúbrica que cubre: Transformación (15 pts), Documentación (10 pts).
+
+3. Jonathan (BI Analyst & Executive Storytelling)
+
+Enfoque Avanzado: Dejará atrás las gráficas estáticas aburridas para implementar una narrativa visual. Responderá las 5 preguntas de negocio exactas del PDF utilizando un enfoque de consultoría.
+
+Responsabilidades: Generación del Dashboard Ejecutivo/Gráficas, interpretación profunda de los datos, redacción de conclusiones y armado de la Presentación Ejecutiva.
+
+Puntos de la rúbrica que cubre: Análisis y reportes (20 pts), Interpretación (15 pts), Presentación ejecutiva (5 pts).
